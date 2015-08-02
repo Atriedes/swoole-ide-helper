@@ -1,0 +1,14 @@
+{
+    "name": "swoole/swoole-ide-helper",
+    "description": "Swoole Framework IDE Helper",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swoole",
+            "email": "team@swoole.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
